@@ -1,0 +1,63 @@
++--------------------------+------------------+
+| Regression Result        | Variant Folder   |
++==========================+==================+
+| All images match. PASSED | variant_0        |
++--------------------------+------------------+
+| All images match. PASSED | variant_1        |
++--------------------------+------------------+
+| All images match. PASSED | variant_10       |
++--------------------------+------------------+
+| All images match. PASSED | variant_11       |
++--------------------------+------------------+
+| All images match. PASSED | variant_12       |
++--------------------------+------------------+
+| All images match. PASSED | variant_13       |
++--------------------------+------------------+
+| All images match. PASSED | variant_14       |
++--------------------------+------------------+
+| All images match. PASSED | variant_15       |
++--------------------------+------------------+
+| All images match. PASSED | variant_16       |
++--------------------------+------------------+
+| All images match. PASSED | variant_17       |
++--------------------------+------------------+
+| All images match. PASSED | variant_18       |
++--------------------------+------------------+
+| All images match. PASSED | variant_19       |
++--------------------------+------------------+
+| All images match. PASSED | variant_2        |
++--------------------------+------------------+
+| All images match. PASSED | variant_20       |
++--------------------------+------------------+
+| All images match. PASSED | variant_21       |
++--------------------------+------------------+
+| All images match. PASSED | variant_22       |
++--------------------------+------------------+
+| All images match. PASSED | variant_23       |
++--------------------------+------------------+
+| All images match. PASSED | variant_24       |
++--------------------------+------------------+
+| All images match. PASSED | variant_25       |
++--------------------------+------------------+
+| All images match. PASSED | variant_26       |
++--------------------------+------------------+
+| All images match. PASSED | variant_27       |
++--------------------------+------------------+
+| All images match. PASSED | variant_28       |
++--------------------------+------------------+
+| All images match. PASSED | variant_29       |
++--------------------------+------------------+
+| All images match. PASSED | variant_3        |
++--------------------------+------------------+
+| All images match. PASSED | variant_4        |
++--------------------------+------------------+
+| All images match. PASSED | variant_5        |
++--------------------------+------------------+
+| All images match. PASSED | variant_6        |
++--------------------------+------------------+
+| All images match. PASSED | variant_7        |
++--------------------------+------------------+
+| All images match. PASSED | variant_8        |
++--------------------------+------------------+
+| All images match. PASSED | variant_9        |
++--------------------------+------------------+
